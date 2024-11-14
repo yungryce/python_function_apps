@@ -1,0 +1,16 @@
+[submodule "Auth_FA"]
+	path = Auth_FA
+	url = git@github.com:yungryce/authentication-FA.git
+[submodule "Email_FA"]
+	path = Email_FA
+	url = git@github.com:yungryce/Email_FA.git
+	branch = auth
+[submodule "ImageProcessor_FA"]
+	path = ImageProcessor_FA
+	url = git@github.com:yungryce/imageProcessor-python-functions.git
+[submodule "startstopVM_FA"]
+	path = startstopVM_FA
+	url = git@github.com:yungryce/startstopvm.git
+[submodule "recaptcha_FA"]
+	path = recaptcha_FA
+	url = git@github.com:yungryce/recaptcha_FA.git
